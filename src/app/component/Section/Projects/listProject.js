@@ -2,7 +2,7 @@ export const listProject = [
   {
     name: "Web Ecommerce",
     pathImage: "/projects/Ecommerce.png",
-    linkDemo: "https://the-wild-oasis-phi-weld-42.vercel.app/",
+    linkDemo: "https://easy-shop-pied.vercel.app/",
     techList: [
       "ReactJS",
       "NodeJS",
@@ -14,14 +14,7 @@ export const listProject = [
     descriptionVi: "Dự án Web Thương mại điện tử",
     descriptionEn: "This is Web Ecommerce",
   },
-  {
-    name: "Facbook clone",
-    pathImage: "/projects/facebook.png",
-    linkDemo: "https://the-wild-oasis-phi-weld-42.vercel.app/",
-    techList: ["ReactJS", "NodeJS", "Express", "MongoDB", "Tailwindcss"],
-    descriptionVi: "Dự án Facebook",
-    descriptionEn: "This is Facebook",
-  },
+
   {
     name: "Trello Clone",
     pathImage: "/projects/trello.png",
